@@ -1,5 +1,5 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: A beginners’ guide to brewing easy with Chemex
 date: 2020-02-20T15:04:10.000Z
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
